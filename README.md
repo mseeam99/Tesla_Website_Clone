@@ -1,5 +1,3 @@
-Tesla's official website cloned using (React Native) JavaScript. The program works in iOS, Android, and the Web since React Native is cross-platform
-
 <img width="498" alt="0" src="https://user-images.githubusercontent.com/112004640/230694789-d7f0f2e5-4f01-4959-94bd-f30021c46064.png">
 
 
